@@ -10,16 +10,16 @@ Bienvenue dans le premier travail pratique de votre parcours d'apprentissage en 
 **Vous disposez d'un fichier de test qui permet de valider la complexion de vos résultats. Assurez vous de le rouler après chaque exercice!**
 
 ## 01. Bonjour 
-
-Le programme le plus simple en python est celui qui écrit dans la console la phrase `Bonjour tout le mot`. Pour cette exercice il faut d'abord demander le nom complet de l'utilisateur et ensuite écrire dans la console `Bonjour` suivi pas le nom complet de l'utilisateur. 
+Le programme le plus simple en Python est celui qui écrit dans la console la phrase `Bonjour`. Pour cet exercice, vous devez :
 
 **Exemple :**
 
-| Sortie |  Entrée  |
-|:------|:-----------|
-| Veuillez entrer votre nom complet : | Rachad Chazbek | 
-| Bonjour Rachad Chazbek |  |
-
+| Sortie | Entrée |
+|:------|:-------|
+| Veuillez entrer votre nom complet : | Mark Doe |
+| Veuillez entrer votre âge : | 20 |
+| Bonjour Mark Doe | |
+| Vous êtes né(e) en 2005 | |
 
 ## 02. Le Système Énergétique de Stark Industries
 
