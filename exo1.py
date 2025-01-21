@@ -1,7 +1,7 @@
 # Demander le nom complet de l'utilisateur
-nom = input("Veuillez entrer votre nom complet : ")
+nom = input("Veuillez entrer votre nom complet: ")
 # Demander l'âge de l'utilisateur
-age = int(input("Veuillez entrer votre âge : "))
+age = int(input("Veuillez entrer votre âge: "))
 # Définir l'année actuelle
 ANACT = 2025
 # Calculer l'année de naissance
